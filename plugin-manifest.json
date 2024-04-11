@@ -1,0 +1,36 @@
+{
+  "locale": [
+    "en"
+  ],
+  "service": "FINANCE",
+  "whiteListedDomains": [],
+  "modules": {
+    "widgets": [
+      {
+        "location": "webtab",
+        "name": "parent-child relation",
+        "url": "/app/widget.html",
+        "logo": "/app/img/logo.png"
+      }
+    ]
+  },
+  "config": [
+    {
+      "connectionLinkName": "zohobookscontact",
+      "connectionName": "zohobooks-contact",
+      "serviceName": "zoho_books",
+      "userAccess": true,
+      "isUserDefinedService": false,
+      "sharedBy": "830021604",
+      "scope": [
+        "ZohoBooks.contacts.READ",
+        "ZohoBooks.custommodules.ALL",
+        "ZohoBooks.custommodules.All",
+        "ZohoBooks.invoices.READ"
+      ]
+    }
+  ],
+  "usedConnections": [
+   
+  ]
+}

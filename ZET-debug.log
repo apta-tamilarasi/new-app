@@ -1,0 +1,12 @@
+[error] [2024-04-11T06:57:50.263Z] : × Below file formats are not allowed in Sigma
+[info] [2024-04-11T06:57:50.271Z] :  ==> app\js\main.py
+[info] [2024-04-11T06:57:50.272Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2024-04-11T06:57:50.286Z] : × Below file formats are not allowed in Sigma
+[info] [2024-04-11T06:57:50.287Z] :  ==> app\js\main.py
+[info] [2024-04-11T06:57:50.288Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2024-04-11T06:59:10.330Z] : × Below file formats are not allowed in Sigma
+[info] [2024-04-11T06:59:10.333Z] :  ==> app\js\main.py
+[info] [2024-04-11T06:59:10.334Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2024-04-11T06:59:10.346Z] : × Below file formats are not allowed in Sigma
+[info] [2024-04-11T06:59:10.346Z] :  ==> app\js\main.py
+[info] [2024-04-11T06:59:10.347Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
